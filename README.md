@@ -1,5 +1,6 @@
 Firebase Realtime Database PushID Convert Timestamp
 =========
+[![Build Status](https://travis-ci.org/jengjeng/firebase-pushid-convert-timestamp.svg?branch=master)](https://travis-ci.org/jengjeng/firebase-pushid-convert-timestamp)
 
 Convert your Firebase Realtime Database PushID to timestamp's number.
 
