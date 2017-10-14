@@ -1,0 +1,28 @@
+{
+  "name": "firebase-pushid-convert-timestamp",
+  "version": "1.0.0",
+  "description": "Convert your Firebase Realtime Database PushID to timestamp's number",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jengjeng/firebase-pushid-convert-timestamp.git"
+  },
+  "keywords": [
+    "firebase",
+    "rdb",
+    "realtime",
+    "database",
+    "push",
+    "id",
+    "timestamp"
+  ],
+  "author": "Wittwat Jeng Patcharinsak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jengjeng/firebase-pushid-convert-timestamp/issues"
+  },
+  "homepage": "https://github.com/jengjeng/firebase-pushid-convert-timestamp#readme"
+}
